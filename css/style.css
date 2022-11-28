@@ -108,7 +108,7 @@ body {
 /* work experience */
 
 .work-experience-company {
-  color: #C7C7C7;
+  color: #c7c7c7;
   font-style: normal;
 }
 
@@ -174,7 +174,7 @@ body {
 /* Sidebar-section */
 
 .sidebar-section {
-  background-color: #D6DBDE;
+  background-color: #d6dbde;
   width: 370px;
   padding: 40px 0;
 }
@@ -183,7 +183,7 @@ body {
   padding: 20px;
 }
 .myPhoto {
-    width: 100%;
+  width: 100%;
   /* border: 3px solid #fff; */
   border-radius: 16px;
 }
@@ -202,18 +202,19 @@ body {
   font-weight: bold;
   font-size: 22px;
   line-height: 1.23;
-  color: #fff;
+  color: #595959;
   margin-bottom: 10px;
 }
 
 /* contacts-section */
 
 .contacts-section-link {
-  color: #fff;
+  color: #595959;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
+  font-weight: bold;
 }
 
 /* tech-skills-section */
@@ -227,7 +228,7 @@ body {
 .tech-skills-item,
 .soft-skills-item,
 .languages-item {
-  color: #fff;
+  color: #595959;
 }
 
 .tech-skills-item-text,
@@ -237,5 +238,6 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
-  color: #fff;
+  font-weight: bold;
+  color: #595959;
 }
